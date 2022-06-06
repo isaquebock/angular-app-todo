@@ -11,4 +11,15 @@ Aplicação pequena para revisão de conceitos e estudo.
 
 ## Rodando o projeto
 
-Para rodar o projeto...
+Para rodar o projeto clone esse repositório:
+
+```
+git clone git@github.com:isaquebock/angular-app-todo.git
+```
+
+e rode o comando para inicializar o ambiente de desenvolvimento do Angular CLI:
+
+```
+ng serve
+```
+
